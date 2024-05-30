@@ -1,0 +1,13 @@
+variable "region" {}
+variable "access_key" {}
+variable "secret_key" {}
+variable "vpc_cidr" {}
+variable "project_name" {}
+variable "image_id" {}
+variable "public_subnet_1a" {}
+variable "public_subnet_1b" {}
+variable "public_subnet_1c" {}
+variable "private_subnet_1a" {}
+variable "private_subnet_1b" {}
+variable "private_subnet_1c" {}
+variable "password" {}
